@@ -1,0 +1,1 @@
+web: gunicorn ecommerce.wsgi --log-level=info --log-file -
